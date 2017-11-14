@@ -33,6 +33,11 @@
     		<artifactId>com.effectiveosgi.rt.inspect</artifactId>
     		<version>0.0.1</version>
     </dependency>
+    <dependency>
+        <groupId>${project.groupId}</groupId>
+        <artifactId>org.example.web</artifactId>
+        <version>0.0.1</version>
+    </dependency>
     <!-- TODO: reference your workspace projects to be indexed here -->
 
   </dependencies>
